@@ -9,8 +9,15 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    let screenWidth = UIScreen.main.bounds.width
+    
     var body: some View {
-        Text("Hello, World!")
+        ViewPager(viewWidth: screenWidth, viewHeight: screenWidth / 3, viewCount: 5){ index in
+             Text("\(index + 1)")
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+                .background(Color.green)
+        }
     }
 }
 
