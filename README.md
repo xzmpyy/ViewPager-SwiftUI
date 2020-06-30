@@ -1,10 +1,14 @@
 ### 简介 Description
 一个用SiwftUI编写的轮播图控件，使用简便
 
+A circulate viewpager made in SwiftUI,easy use easy revise
+
 *****
 
 ### 添加说明 Add To Your Project
 请下载压缩包后解压，将ViewPager.swift文件添加至工程
+
+You can downLoad the ViewPager.swift.zip from releases,add the ViewPager.swift into your project after unzip the zip
 
 *****
 
