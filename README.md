@@ -1,5 +1,5 @@
 ### 简介 Description
-一个用SiwftUI编写的轮播图控件，使用简便
+一个用SwiftUI编写的轮播图控件，使用简便
 
 A circulate viewpager made in SwiftUI,easy use easy revise
 
