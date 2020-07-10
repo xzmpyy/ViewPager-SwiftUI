@@ -3,6 +3,9 @@
 
 A circulate viewpager made in SwiftUI,easy use easy revise
 
+![avatar](https://raw.githubusercontent.com/xzmpyy/ViewPager-SwiftUI/master/ViewPager.gif)
+
+
 *****
 
 ### 添加说明 Add To Your Project
